@@ -1,0 +1,71 @@
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csc.exe
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csc.exe.config
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csc.rsp
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csi.exe
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csi.rsp
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.AppContext.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\vbc.exe
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\vbc.exe.config
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\vbc.rsp
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\SinemaRezervasyon.dll.config
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\SinemaRezervasyon.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\SinemaRezervasyon.pdb
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.pdb
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\bin\CKEditor.NET.dll
+C:\Users\Onur Rahmi ÖZDEMİR\Documents\Visual Studio 2017\Projects\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csc.exe
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csc.exe.config
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csc.rsp
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csi.exe
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\csi.rsp
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.AppContext.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\vbc.exe
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\vbc.exe.config
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\vbc.rsp
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\SinemaRezervasyon.dll.config
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\SinemaRezervasyon.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\SinemaRezervasyon.pdb
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csprojAssemblyReference.cache
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csproj.CopyComplete
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.dll
+C:\Users\onurrahmi\Downloads\SinemaRezervasyon-enson\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.pdb
